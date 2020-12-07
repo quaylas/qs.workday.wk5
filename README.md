@@ -61,7 +61,7 @@ THEN the saved events persist
 ## Images
 ### Welcome Screen
 
-![Image of welcome screen](./assets/images/welcomeScreen.png)
+![Image of welcome screen](./assets/images/PortfolioHero.jpeg)
 
 ### Question Screen
 
